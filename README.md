@@ -2,7 +2,7 @@
 
 * 😊 Also called AyajiLin in games!
 * 💬 Ask me about [Python](https://www.python.org/) issues!
-* 📫 How to reach me: `linkyy2000313@gmail.com`
+* 📫 How to reach me: [ayajilin@pm.me](mailto:ayajilin@pm.me)
 * 😺 ![Profile views](https://komarev.com/ghpvc/?username=leonardodalinky&color=brightgreen)
 
 🛠 **Languages and tools:**  
