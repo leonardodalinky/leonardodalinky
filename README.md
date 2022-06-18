@@ -1,7 +1,7 @@
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Hi! I'm leonardodalinky
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px">Hi! I'm leonardodalinky
 
 * 😊 Also called AyajiLin in games!
-* 💬 Ask me about [Python](https://www.python.org/) issues!
+* 💬 Ask me about any issues!
 * 📫 How to reach me: [ayajilin@pm.me](mailto:ayajilin@pm.me)
 * 😺 ![Profile views](https://komarev.com/ghpvc/?username=leonardodalinky&color=brightgreen)
 
