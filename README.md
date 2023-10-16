@@ -3,6 +3,7 @@
 * 😊 Also called AyajiLin in games!
 * 💬 Ask me about any issues!
 * 📫 How to reach me: [ayajilin@pm.me](mailto:ayajilin@pm.me)
+* 🎮 ![](https://dcbadge.vercel.app/api/shield/563254318585610240?style=flat)
 * 😺 ![Profile views](https://komarev.com/ghpvc/?username=leonardodalinky&color=brightgreen)
 
 🛠 **Languages and tools:**  
