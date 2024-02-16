@@ -9,7 +9,7 @@
 🛠 **Languages and tools:**  
 
 [<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>](https://www.python.org/)
-[<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"></code>](https://www.rust-lang.org/)
+[<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg"></code>](https://www.rust-lang.org/)
 [<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>](https://cplusplus.com/)
 [<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>](https://www.java.com/)
 [<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>](https://www.javascript.com/)
