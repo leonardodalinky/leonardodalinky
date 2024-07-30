@@ -3,6 +3,7 @@
 * 😊 Also called AyajiLin in games!
 * 💬 Ask me about any issues!
 * 📫 How to reach me: [ayajilin@pm.me](mailto:ayajilin@pm.me)
+* 🎓 Personal Academic Website: [About K. Lin](https://leonardodalinky.github.io/researcher/)
 * 🎮 [![](https://dcbadge.vercel.app/api/shield/563254318585610240?style=flat)](https://discordapp.com/users/563254318585610240)
 * 😺 ![Profile views](https://komarev.com/ghpvc/?username=leonardodalinky&color=brightgreen)
 
